@@ -36,3 +36,21 @@
 
 > [!DANGER]
 > Never run this command in a production environment.
+
+## HTML Alert Examples
+
+<Alert type="info">
+  This is an informational alert using HTML syntax.
+</Alert>
+
+<Alert type="success">
+  Operation completed successfully!
+</Alert>
+
+<Alert type="warning">
+  This action cannot be undone.
+</Alert>
+
+<Alert type="error">
+  Invalid credentials provided.
+</Alert>
